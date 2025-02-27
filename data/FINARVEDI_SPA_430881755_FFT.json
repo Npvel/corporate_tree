@@ -1,4 +1,5 @@
 
+  [
   {
     "transactionDetail": {
       "transactionID": "rrt-0a809ff5a71987db7-a-eu-3369861-52213661-5",
@@ -3089,3 +3090,5 @@
       "first": "https://plus.dnb.com/v1/familyTree/430881755?page%5Bnumber%5D=1&page%5Bsize%5D=1000"
     }
   }
+
+  ]
