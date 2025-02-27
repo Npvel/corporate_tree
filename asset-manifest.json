@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/corporate_tree/static/css/main.ccd292ee.css",
+    "main.js": "/corporate_tree/static/js/main.95121578.js",
+    "index.html": "/corporate_tree/index.html",
+    "main.ccd292ee.css.map": "/corporate_tree/static/css/main.ccd292ee.css.map",
+    "main.95121578.js.map": "/corporate_tree/static/js/main.95121578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd292ee.css",
+    "static/js/main.95121578.js"
+  ]
+}
