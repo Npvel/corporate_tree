@@ -1,0 +1,3092 @@
+[
+  {
+    "transactionDetail": {
+      "transactionID": "rrt-0a809ff5a71987db7-a-eu-3369861-52213661-5",
+      "transactionTimestamp": "2024-12-23T14:52:16.648Z",
+      "inLanguage": "en-US",
+      "serviceVersion": "1"
+    },
+    "inquiryDetail": {
+      "duns": "430881755"
+    },
+    "globalUltimateDuns": "430881755",
+    "globalUltimateFamilyTreeMembersCount": 63,
+    "branchesExcludedMembersCount": 21,
+    "familyTreeMembers": [
+      {
+        "duns": "430881755",
+        "primaryName": "FINARVEDI SPA",
+        "startDate": "1979-11-08",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "PIAZZA LODI 7"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "GRUPPO ARVEDI",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Global Ultimate",
+              "dnbCode": 12775
+            },
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 1,
+          "children": [
+            {
+              "duns": "431282800"
+            },
+            {
+              "duns": "507181654"
+            },
+            {
+              "duns": "442473473"
+            },
+            {
+              "duns": "442473472"
+            },
+            {
+              "duns": "443764204"
+            },
+            {
+              "duns": "442714929"
+            },
+            {
+              "duns": "442611947"
+            },
+            {
+              "duns": "426307368"
+            },
+            {
+              "duns": "508112376"
+            },
+            {
+              "duns": "507791329"
+            },
+            {
+              "duns": "542917500"
+            },
+            {
+              "duns": "339052288"
+            },
+            {
+              "duns": "430500895"
+            },
+            {
+              "duns": "434480830"
+            },
+            {
+              "duns": "428674725"
+            },
+            {
+              "duns": "442473474"
+            },
+            {
+              "duns": "442611941"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 6532498968.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "442714929",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "startDate": "1988-06-10",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 18"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          },
+          "children": [
+            {
+              "duns": "437130005"
+            },
+            {
+              "duns": "437775867"
+            },
+            {
+              "duns": "435138426"
+            },
+            {
+              "duns": "428203248"
+            },
+            {
+              "duns": "440626687"
+            },
+            {
+              "duns": "378024546"
+            },
+            {
+              "duns": "440483432"
+            },
+            {
+              "duns": "437789057"
+            },
+            {
+              "duns": "437447995"
+            },
+            {
+              "duns": "430526790"
+            },
+            {
+              "duns": "629961939"
+            },
+            {
+              "duns": "442669815"
+            },
+            {
+              "duns": "437719234"
+            },
+            {
+              "duns": "459111451"
+            },
+            {
+              "duns": "441156873"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 3089469066.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "428674725",
+        "primaryName": "ARVEDI TUBI ACCIAIO SPA",
+        "startDate": "1972-03-16",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "A.T.A. SPA",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          },
+          "children": [
+            {
+              "duns": "440406065"
+            },
+            {
+              "duns": "480131125"
+            },
+            {
+              "duns": "438294860"
+            },
+            {
+              "duns": "441492094"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 520
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 604592045.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "443764204",
+        "primaryName": "ILTA INOX SPA",
+        "startDate": "1987-06-16",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "ROBECCO D'OGLIO"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26010",
+          "streetAddress": {
+            "line1": "STRADA STATALE 45 BIS"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          },
+          "children": [
+            {
+              "duns": "438207656"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 365707599.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "434480830",
+        "primaryName": "SIDERURGICA TRIESTINA SRL",
+        "startDate": "1995-06-08",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TRIESTE"
+          },
+          "addressRegion": {
+            "name": "TRIESTE"
+          },
+          "postalCode": "34145",
+          "streetAddress": {
+            "line1": "VIA DI SERVOLA 1"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4789",
+          "usSicV4Description": "Transportation services"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 13
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 9289815.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "507181654",
+        "primaryName": "Arvedi Deutschland GmbH",
+        "startDate": "2006-05-24",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Germany",
+            "isoAlpha2Code": "DE"
+          },
+          "addressLocality": {
+            "name": "Düsseldorf"
+          },
+          "addressRegion": {
+            "name": "Nordrhein-Westfalen"
+          },
+          "postalCode": "40470",
+          "streetAddress": {
+            "line1": "Münsterstr. 246"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 8
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 1876345.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "431282800",
+        "primaryName": "SOCIETA' SERVIZI EDITORIALI SRL IN FORMA ABBREVIATO S.S.E. SRL",
+        "startDate": "1996-08-30",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA BASTIDA 16"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "2721",
+          "usSicV4Description": "Periodicals-publishing/printing"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          },
+          "children": [
+            {
+              "duns": "434152032"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 5
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 799945.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "507791329",
+        "primaryName": "INVESTIMENTI INDUSTRIALI ITALIANI SRL",
+        "startDate": "2024-01-19",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "PIAZZA LODI 7"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 1
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 355828.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "426307368",
+        "primaryName": "ARVEDI EAST EUROPE SP Z O O",
+        "startDate": "2011-02-17",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Poland",
+            "isoAlpha2Code": "PL"
+          },
+          "addressLocality": {
+            "name": "Bielsko-Biała"
+          },
+          "addressRegion": {
+            "name": "śląskie"
+          },
+          "addressCounty": {
+            "name": "M. Bielsko-Biała"
+          },
+          "postalCode": "43-300",
+          "streetAddress": {
+            "line1": "Ul. Konwojowa 65"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 7
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 350858.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "339052288",
+        "primaryName": "STUDIO TV 1 NEWS SRL",
+        "startDate": "2009-02-17",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA BASTIDA 16"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4833",
+          "usSicV4Description": "Television station"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          },
+          "children": [
+            {
+              "duns": "439693015"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 26
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 238803.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "430500895",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "MILANO"
+          },
+          "addressRegion": {
+            "name": "MILANO"
+          },
+          "postalCode": "20134",
+          "streetAddress": {
+            "line1": "VIALE ENRICO FORLANINI 23"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442473472",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA DELL'INNOVAZIONE DIGITALE 10"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442473473",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CERIANO LAGHETTO"
+          },
+          "addressRegion": {
+            "name": "MONZA E BRIANZA"
+          },
+          "postalCode": "20816",
+          "streetAddress": {
+            "line1": "VIA MILANO 10/12"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442473474",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA ZONA PORTO CANALE 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442611941",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 18"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442611947",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "STRADA DI PENTIMA 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "508112376",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "ROMA"
+          },
+          "addressRegion": {
+            "name": "ROMA"
+          },
+          "postalCode": "00187",
+          "streetAddress": {
+            "line1": "VIA DEL TRITONE 169"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6719",
+          "usSicV4Description": "Holding company"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "542917500",
+        "primaryName": "FINARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "LOCALITA' PORTO CANALE 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "6159",
+          "usSicV4Description": "Misc business credit institutions"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 2,
+          "parent": {
+            "duns": "430881755"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "629961939",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "startDate": "1994-05-09",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "VIALE BENEDETTO BRIN 218"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "AST",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          },
+          "children": [
+            {
+              "duns": "378668318"
+            },
+            {
+              "duns": "443057309"
+            },
+            {
+              "duns": "436010042"
+            },
+            {
+              "duns": "339893630"
+            },
+            {
+              "duns": "443354465"
+            },
+            {
+              "duns": "442862880"
+            },
+            {
+              "duns": "428421814"
+            },
+            {
+              "duns": "443057311"
+            },
+            {
+              "duns": "313122981"
+            },
+            {
+              "duns": "436010041"
+            },
+            {
+              "duns": "339893631"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 2475691069.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "438207656",
+        "primaryName": "ARINOX SPA",
+        "startDate": "1989-03-29",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "SESTRI LEVANTE"
+          },
+          "addressRegion": {
+            "name": "GENOVA"
+          },
+          "postalCode": "16039",
+          "streetAddress": {
+            "line1": "VIA ANTONIO GRAMSCI 41/A"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "443764204"
+          },
+          "children": [
+            {
+              "duns": "312617221"
+            },
+            {
+              "duns": "630011752"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 520
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 272560969.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "435138426",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "startDate": "1992-06-10",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "PERUGIA"
+          },
+          "addressRegion": {
+            "name": "PERUGIA"
+          },
+          "postalCode": "06134",
+          "streetAddress": {
+            "line1": "STRADA EUGUBINA 186/H"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3449",
+          "usSicV4Description": "Mfg misc structural metalwork"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "CSI",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          },
+          "children": [
+            {
+              "duns": "435441150"
+            },
+            {
+              "duns": "508263579"
+            },
+            {
+              "duns": "435240546"
+            },
+            {
+              "duns": "435240545"
+            },
+            {
+              "duns": "441977851"
+            },
+            {
+              "duns": "508263580"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 247
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 249799757.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "440626687",
+        "primaryName": "EUROTRADE SPA",
+        "startDate": "1990-02-08",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "SPINADESCO"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26020",
+          "streetAddress": {
+            "line1": "VIA S.S. 234 CODOGNESE 1"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          },
+          "children": [
+            {
+              "duns": "339802122"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 8
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 237810581.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "440483432",
+        "primaryName": "GREEN ENERGY FOR STEEL SRL",
+        "startDate": "2019-10-17",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 18"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4911",
+          "usSicV4Description": "Electric services"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          },
+          "children": [
+            {
+              "duns": "441329202"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 36
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 41366972.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "439693015",
+        "primaryName": "CR1 COMMUNICATIONS SRL",
+        "startDate": "2018-07-26",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA BASTIDA 16"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4833",
+          "usSicV4Description": "Television station"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "339052288"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 49
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 2526248.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "438294860",
+        "primaryName": "PROTEC SRL",
+        "startDate": "1991-08-01",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3479",
+          "usSicV4Description": "Coating/engraving service"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "428674725"
+          },
+          "children": [
+            {
+              "duns": "507901570"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 1
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 1046660.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "378024546",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CORBETTA"
+          },
+          "addressRegion": {
+            "name": "MILANO"
+          },
+          "postalCode": "20011",
+          "streetAddress": {
+            "line1": "VIA ALBERTO DA GIUSSANO 11"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "428203248",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "SESTO ED UNITI"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26028",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "430526790",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA BASTIDA SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5039",
+          "usSicV4Description": "Whol construction materials"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "434152032",
+        "primaryName": "SOCIETA' SERVIZI EDITORIALI SRL IN FORMA ABBREVIATO S.S.E. SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "PIAZZA ROMA 7"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "2721",
+          "usSicV4Description": "Periodicals-publishing/printing"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "431282800"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "437130005",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA RIGLIO 23/A"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4953",
+          "usSicV4Description": "Refuse system"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "437447995",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "RIVOLI"
+          },
+          "addressRegion": {
+            "name": "TORINO"
+          },
+          "postalCode": "10098",
+          "streetAddress": {
+            "line1": "VIA FRANCESCO GIOVANNI RAIMONDO 40/C"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "437719234",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "SPINADESCO"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26020",
+          "streetAddress": {
+            "line1": "VIA SS CODOGNESE 234"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "437775867",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TRIESTE"
+          },
+          "addressRegion": {
+            "name": "TRIESTE"
+          },
+          "postalCode": "34145",
+          "streetAddress": {
+            "line1": "VIA DI SERVOLA 1"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "437789057",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CROTTA D'ADDA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26020",
+          "streetAddress": {
+            "line1": "CASCINA MONCUCCO SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4953",
+          "usSicV4Description": "Refuse system"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "440406065",
+        "primaryName": "ARVEDI TUBI ACCIAIO SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 6"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "428674725"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "441156873",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 6"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "441492094",
+        "primaryName": "ARVEDI TUBI ACCIAIO SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "A.T.A. SPA",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "428674725"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "442669815",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "BRESSANONE"
+          },
+          "addressRegion": {
+            "name": "BOLZANO"
+          },
+          "postalCode": "39042",
+          "streetAddress": {
+            "line1": "VIA CENTRALE 21"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "459111451",
+        "primaryName": "ACCIAIERIA ARVEDI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "MILANO"
+          },
+          "addressRegion": {
+            "name": "MILANO"
+          },
+          "postalCode": "20134",
+          "streetAddress": {
+            "line1": "VIALE ENRICO FORLANINI 23"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "442714929"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "480131125",
+        "primaryName": "Arvedi Tubi Acciaio S.p.A., Cremona",
+        "startDate": "2013-08-22",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Switzerland",
+            "isoAlpha2Code": "CH"
+          },
+          "addressLocality": {
+            "name": "Minusio"
+          },
+          "addressRegion": {
+            "name": "TESSIN"
+          },
+          "postalCode": "6648",
+          "streetAddress": {
+            "line1": "Studio Fiduciario Marazza Sagl",
+            "line2": "Via San Gottardo 129"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            },
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 3,
+          "parent": {
+            "duns": "428674725"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "313122981",
+        "primaryName": "AST Deutschland GmbH",
+        "startDate": "2014-03-26",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Germany",
+            "isoAlpha2Code": "DE"
+          },
+          "addressLocality": {
+            "name": "Dortmund"
+          },
+          "addressRegion": {
+            "name": "Nordrhein-Westfalen"
+          },
+          "postalCode": "44147",
+          "streetAddress": {
+            "line1": "Heinrich-August-Schulte-Str. 14"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 147
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 226333302.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "442862880",
+        "primaryName": "TUBIFICIO DI TERNI SRL",
+        "startDate": "2022-11-08",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "VIALE BENEDETTO BRIN 218"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Parent/Headquarters",
+              "dnbCode": 9141
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          },
+          "children": [
+            {
+              "duns": "443147378"
+            }
+          ]
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 118
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 98759922.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "312617221",
+        "primaryName": "Arinox Deutschland GmbH",
+        "startDate": "2007-10-05",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Germany",
+            "isoAlpha2Code": "DE"
+          },
+          "addressLocality": {
+            "name": "Neukirchen-Vluyn"
+          },
+          "addressRegion": {
+            "name": "Nordrhein-Westfalen"
+          },
+          "postalCode": "47506",
+          "streetAddress": {
+            "line1": "Raiffeisenstr. 17"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "8741",
+          "usSicV4Description": "Management services"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Subsidiary",
+              "dnbCode": 9159
+            },
+            {
+              "description": "Domestic Ultimate",
+              "dnbCode": 12774
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "438207656"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        },
+        "numberOfEmployees": [
+          {
+            "value": 5
+          }
+        ],
+        "financials": [
+          {
+            "yearlyRevenues": [
+              {
+                "value": 128394.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "duns": "339802122",
+        "primaryName": "EUROTRADE SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "MILANO"
+          },
+          "addressRegion": {
+            "name": "MILANO"
+          },
+          "postalCode": "20134",
+          "streetAddress": {
+            "line1": "VIALE ENRICO FORLANINI 23"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "440626687"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "339893630",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CERIANO LAGHETTO"
+          },
+          "addressRegion": {
+            "name": "MONZA E BRIANZA"
+          },
+          "postalCode": "20816",
+          "streetAddress": {
+            "line1": "VIA MILANO 12"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "THYSSENKRUPP ACCIAI SPECIALI TERNI SPA",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "339893631",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TORINO"
+          },
+          "addressRegion": {
+            "name": "TORINO"
+          },
+          "postalCode": "10151",
+          "streetAddress": {
+            "line1": "CORSO REGINA MARGHERITA 400"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "tradeStyleNames": [
+          {
+            "name": "THYSSENKRUPP ACCIAI SPECIALI TERNI SPA",
+            "priority": 1
+          }
+        ],
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "378668318",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "STRADA DEI CONFINI 48"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "428421814",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "VOCABOLO VALLE SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "435240545",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "PERUGIA"
+          },
+          "addressRegion": {
+            "name": "PERUGIA"
+          },
+          "postalCode": "06134",
+          "streetAddress": {
+            "line1": "STRADA PICCIONE-SELVETTE"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "435240546",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "FOSSATO DI VICO"
+          },
+          "addressRegion": {
+            "name": "PERUGIA"
+          },
+          "postalCode": "06022",
+          "streetAddress": {
+            "line1": "VIA DELLA FONTE LIONE 14"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "435441150",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA ACQUAVIVA 18"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "5051",
+          "usSicV4Description": "Metals service center"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "436010041",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "STRADA DI SABBIONE 91/A"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "436010042",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "STRADA DI PENTIMA 3"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "7371",
+          "usSicV4Description": "Custom computer programming"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "441329202",
+        "primaryName": "GREEN ENERGY FOR STEEL SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TRIESTE"
+          },
+          "addressRegion": {
+            "name": "TRIESTE"
+          },
+          "postalCode": "34145",
+          "streetAddress": {
+            "line1": "VIA DI SERVOLA 1"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "4911",
+          "usSicV4Description": "Electric services"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "440483432"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "441977851",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "VASTO"
+          },
+          "addressRegion": {
+            "name": "CHIETI"
+          },
+          "postalCode": "66054",
+          "streetAddress": {
+            "line1": "ZONA INDUSTRIALE PUNTA PENNA SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "443057309",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CALENZANO"
+          },
+          "addressRegion": {
+            "name": "FIRENZE"
+          },
+          "postalCode": "50041",
+          "streetAddress": {
+            "line1": "VIA SAN MORESE 54"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "443057311",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "MIRANO"
+          },
+          "addressRegion": {
+            "name": "VENEZIA"
+          },
+          "postalCode": "30035",
+          "streetAddress": {
+            "line1": "VIA GIACOMO MATTEOTTI 78/2"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "443354465",
+        "primaryName": "ACCIAI SPECIALI TERNI SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "FERRARA"
+          },
+          "addressRegion": {
+            "name": "FERRARA"
+          },
+          "postalCode": "44124",
+          "streetAddress": {
+            "line1": "VIA DEI TRASVOLATORI ATLANTICI 50"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3312",
+          "usSicV4Description": "Blast furnace-steel works"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "629961939"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "507901570",
+        "primaryName": "PROTEC SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "CREMONA"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26100",
+          "streetAddress": {
+            "line1": "VIA RONCOBASSO 11-13-15"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3479",
+          "usSicV4Description": "Coating/engraving service"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "438294860"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "508263579",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "OSIMO"
+          },
+          "addressRegion": {
+            "name": "ANCONA"
+          },
+          "postalCode": "60027",
+          "streetAddress": {
+            "line1": "VIA MAESTRI DEL LAVORO SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3449",
+          "usSicV4Description": "Mfg misc structural metalwork"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "508263580",
+        "primaryName": "CENTRO SIDERURGICO INDUSTRIALE SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "OSIMO"
+          },
+          "addressRegion": {
+            "name": "ANCONA"
+          },
+          "postalCode": "60027",
+          "streetAddress": {
+            "line1": "VIA COLLE SAN BIAGIO SNC"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3449",
+          "usSicV4Description": "Mfg misc structural metalwork"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "435138426"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "630011752",
+        "primaryName": "ARINOX SPA",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "ROBECCO D'OGLIO"
+          },
+          "addressRegion": {
+            "name": "CREMONA"
+          },
+          "postalCode": "26010",
+          "streetAddress": {
+            "line1": "STRADA STATALE 45 BIS"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3316",
+          "usSicV4Description": "Mfg cold-rolled steel shapes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 4,
+          "parent": {
+            "duns": "438207656"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      },
+      {
+        "duns": "443147378",
+        "primaryName": "TUBIFICIO DI TERNI SRL",
+        "primaryAddress": {
+          "addressCountry": {
+            "name": "Italy",
+            "isoAlpha2Code": "IT"
+          },
+          "addressLocality": {
+            "name": "TERNI"
+          },
+          "addressRegion": {
+            "name": "TERNI"
+          },
+          "postalCode": "05100",
+          "streetAddress": {
+            "line1": "STRADA DI SABBIONE 91/A"
+          }
+        },
+        "primaryIndustryCode": {
+          "usSicV4": "3317",
+          "usSicV4Description": "Mfg steel pipe/tubes"
+        },
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch/Division",
+              "dnbCode": 9140
+            }
+          ],
+          "hierarchyLevel": 5,
+          "parent": {
+            "duns": "442862880"
+          }
+        },
+        "dunsControlStatus": {
+          "isMarketable": true
+        }
+      }
+    ],
+    "links": {
+      "last": "https://plus.dnb.com/v1/familyTree/430881755?page%5Bnumber%5D=1&page%5Bsize%5D=1000",
+      "self": "https://plus.dnb.com/v1/familyTree/430881755?page%5Bnumber%5D=1&page%5Bsize%5D=1000",
+      "first": "https://plus.dnb.com/v1/familyTree/430881755?page%5Bnumber%5D=1&page%5Bsize%5D=1000"
+    }
+  }
+]
